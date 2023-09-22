@@ -2,7 +2,7 @@
 
  A C header file that enables the usage of Bisaya syntax. Now open-source and with version control.
 
- Get the file [here](https://github.com/damascussteel21/bisaya.h/blob/main/bisaya.h)
+ Get the file [here](https://github.com/damascussteel21/bisaya.h/blob/main/bisaya.h).
 
  Current Version: 1.1-alpha "YawaScript" - 9/22/23
 
